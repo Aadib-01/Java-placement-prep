@@ -1,1 +1,5 @@
-this is prep fpr placement
+dsa
+spring boot 
+oop
+dbms
+system design
